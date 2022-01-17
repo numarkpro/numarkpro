@@ -1,6 +1,8 @@
 ![numarkpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=numarkpro&theme=radical&show_icons=true)
 \
 📫 Discord: Bublik#9053
+
+📫 VK: bublik2013(https://vk.com/bublik2013)
 <!--
 **numarkpro/numarkpro* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
