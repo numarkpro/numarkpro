@@ -1,7 +1,14 @@
-### Hi there 👋
-
+![numarkpro's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=numarkpro&theme=dark&show_icons=true) 
+![numarkpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=numarkpro&theme=dark&show_icons=true)\
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![alt text](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![alt text](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![alt text](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+\
+📫 Discord: Bublik#9053
 <!--
-**numarkpro/numarkpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**numarkpro/numarkpro* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
