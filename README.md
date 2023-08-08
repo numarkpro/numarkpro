@@ -1,4 +1,4 @@
-![numarkpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=numarkpro&theme=radical&show_icons=true)
+![numarkpro's GitHub stats](https://github-readme-stats.vercel.app/api?username=numarkpro&theme=radical&show_icons=true&hide=stars)
 \
 📫 Discord: [Bublik2013](https://discord.com/users/646291319563747338/)
 
