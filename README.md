@@ -2,7 +2,6 @@
 \
 📫 Discord: [bublik2013](https://discord.com/users/646291319563747338/)
 
-📫 VK: [bublik2013](https://vk.com/bublik2013)
 <!--
 **numarkpro/numarkpro* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
